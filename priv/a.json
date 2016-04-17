@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "def-hacks",
+  "private_key_id": "6c37387230cf5c5e0168c7530bcead9f6df0456d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC44RUUSRFdUa1l\ngcmS8pQ2NVu65jnl8XlKFE2yGW31+13frhyqVxKAUedoesGBAK0KfRoSXdKwvtpT\nzRWLZrcOfukW0n1hRsX5cwJpkom2zqU6o8oj/LEG9dDdQ3DEGxFuvGZZwUz6aZHK\nVwt9Yr5jtFIZ9vfF+JnHs2jUWWASaCtCgZ00XvThelb8U/4h5lTg/4xYkT+5N4KV\npVguToDNEB2df7slopVaOTBtU96LHSYiTVUznk3cxH1aeukdhCBMlzDDP4PNtG2r\nx2S+Qm8guURkSkv3dnuJiA1e0jIJzuy7ZHI+RRXLXm2XerRgrHUtz2pu8Uw0JPcj\nZpErSYAxAgMBAAECggEAfGCgx8bocbmTR+jq7XtZDqcTEUf1x6aOjLHgG2NUQNpd\nKzB9hHOTtNRlNDrxl5IW2CmVsqmAJvwe8aXVSrVNjej/cyUkyJ7ObaVcCB5Xm66m\nJi8uvMsxZZdWbqUCZkw3jCIfUV7kJMuFE3U/+5jEsVsMqP8nbf5zppAihEmkgnx9\n66vYCe8o9oFoOjLAMSrK9akx0NyA5cuvThEkAEQCWDjgFCANKShD4oJr4I4TxKtk\nApdCynfTTlqTws00jo3iGs69pVOTvLJZo/AFXSWo/WlqoihmeOLZYvVnQdjOUhM+\nTWxEdTB2Yn2ScAdrF0CC2DHy+9AtVpPFlHL1ncY+qQKBgQD+G4073N/6TuG1S3j1\nccEF05/zVloHXh0XiuF++YM3rwtEzfhyBp1D/sWJ39Se1exv6HDmXwVUzJLWCsgT\nHAo7HOJR97bBm8BEhFO4Dw/H0LnHC6iMfR4y9t0soXZAxXnrV8Cdsg3kHNa7sfsP\nFITetggJ8NNLdrB1pqDOgGsDPwKBgQC6QYyB0tObNjo0iNsozxxgwkMdcEQ9QTEs\nJkvDFnBMGbEkN5abV9JGOlSwavMnBtH44exJqPodG5Yr8UtHRs0Gr0oT/fXvJV18\nNLEzxF+SAjzTwhR3HL1Svyab54wiQWKOHlsW7bWxVWpGV8GEfOsV45L2XcrleCIL\nMzcQdMFQjwKBgQCc/RaXelEiCqPlZrhXIy02VVVHd/zs+lcM2W+RC8Pmng1fN8Ub\nZTy56mfOU2u/qbiGNtuxZ9kaV70L4eNT8wnbFXA5ZcoR+RCjBAHY/+0m7Kwp7ej2\nysHiiKOCVEqDn71ACZnlk0CDwtFjaoUJ/wpLsbhrs85GnBBOz2Af1DTI7wKBgGLM\nmofTGcRfg4iSgA6prlf1NDzNbKVBi5/rwIx/vpnflwOrKQzGDRiLoJjkYo71IzRu\nQzTfma0PER3GJTRt7hv5p8XrFSYCIBDespDPPhLpdPKvJMP6TsMx+n0A2mjhXjId\nEBydg5/Ju1INAu4QhXNbAH4HSrVmgEiIplDoXhMpAoGABivDQoi/6mInW3sBdbYk\nijOerUl0HSpfp/bbIBUOuios5nSMiwOfWI7H++/HPLXOWAt7zdj6ZHhAMTNsNn5i\ndMaFdvSTohuRM/0ztrGYTM1F7vc/YgDU93JE7d59sjszVOfdpYOZATleTfL3YS8V\nK2FDqVNJapi+RwzaL3SmwPc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "def-hacks@appspot.gserviceaccount.com",
+  "client_id": "106682277258648903564",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/def-hacks%40appspot.gserviceaccount.com"
+}
