@@ -1,0 +1,36 @@
+#darkblue {
+	background-color: Aqua;
+	text-align: center;
+}
+.buttonDesign {
+  color: #900;
+  background: #FF0;
+  font-weight: bold;
+  border: 1px solid #900;
+  height:65px;
+  width:130px;
+  font-size: 200%;
+  border: 3px double #FC6;
+  border-top-color: #FC9;
+  border-left-color: #FC9;
+}
+ 
+.buttonDesign:hover {
+  color: #FFF;
+  background: #900;
+}
+
+input[type=checkbox] {
+  /* All browsers except webkit*/
+  transform: scale(1.5);
+}
+.checkboxtext
+{
+  /* Checkbox text */
+  font-size: 130%;
+  display: inline;
+}
+#myText
+{
+	background-color:darkblue;
+}
